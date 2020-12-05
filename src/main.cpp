@@ -23,8 +23,8 @@
 
 using namespace std;
 
-const char* ssid = "Challence";
-const char* password = "0001923880";
+const char* ssid = "XXXXX";
+const char* password = "XXXXX";
 
 camera_fb_t *fb = NULL;  
 static camera_config_t camera_config;
